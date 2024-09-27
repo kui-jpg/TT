@@ -8,3 +8,13 @@ E:\Source\Repos\SMS_Test\bin\Debug\SMS_Test.exe
 E:\Source\Repos\SMS_Test\bin\Debug\SMS_Test.pdb
 E:\Source\Repos\SMS_Test\obj\Debug\SMS_Test.exe
 E:\Source\Repos\SMS_Test\obj\Debug\SMS_Test.pdb
+E:\Source\Repos\TT\SMS_Test\bin\Debug\SMS_Test.exe.config
+E:\Source\Repos\TT\SMS_Test\bin\Debug\SMS_Test.exe
+E:\Source\Repos\TT\SMS_Test\bin\Debug\SMS_Test.pdb
+E:\Source\Repos\TT\SMS_Test\obj\Debug\SMS_Test.csproj.AssemblyReference.cache
+E:\Source\Repos\TT\SMS_Test\obj\Debug\SMS_Test.Form1.resources
+E:\Source\Repos\TT\SMS_Test\obj\Debug\SMS_Test.Properties.Resources.resources
+E:\Source\Repos\TT\SMS_Test\obj\Debug\SMS_Test.csproj.GenerateResource.cache
+E:\Source\Repos\TT\SMS_Test\obj\Debug\SMS_Test.csproj.CoreCompileInputs.cache
+E:\Source\Repos\TT\SMS_Test\obj\Debug\SMS_Test.exe
+E:\Source\Repos\TT\SMS_Test\obj\Debug\SMS_Test.pdb
